@@ -4,10 +4,10 @@ title: "IT At💜"
 title2: "Pinnacle"
 description: "We build systems and networks for your business to run faster and more efficient"
 keywords: "system, infosec, network, enterprise, myanmar, si"
-url: http://pinnaclesi.github.io/
-baseurl: "/"
+url: http://pinnaclesi.github.io
+baseurl: ""
 
-google_analytics: UA-XXXXX-XX
+# google_analytics: UA-XXXXX-XX
 repo: http://github.com/pinnaclesi/thinkspace
 twitter_username: "root_pinnaclesi"
 comments: true
