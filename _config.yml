@@ -4,8 +4,8 @@ title: "IT At💜"
 title2: "Pinnacle"
 description: "We build systems and networks for your business to run faster and more efficient"
 keywords: "system, infosec, network, enterprise, myanmar, si"
-url: http://pinnaclesi.github.io/thinkspace
-baseurl: "/thinkspace"
+url: http://pinnaclesi.github.io/
+baseurl: "/"
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/pinnaclesi/thinkspace
@@ -32,7 +32,7 @@ author:
   bio      : "We build systems and networks for your business to run faster and more efficient"
   thumb    : /images/author.jpg
   email    : root.pinnaclesi@gmail.com
-  url      : http://pinnaclesi.github.io/thinkspace
+  url      : http://pinnaclesi.github.io
   github   : http://github.com/pinnaclesi
   twitter  : http://twitter.com/root_pinnaclesi
   # facebook : https://www.facebook.com/profile.php?id=1257583160
