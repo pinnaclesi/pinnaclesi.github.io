@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-**Thinkspace** is just another minimalist Jekyll theme that focuses on technical writing. Designed for engineers to write their ranting and findings.
+**Pinnacle** is a group of people who are passionate about building computer systems and networks for your business processes to run faster and more efficiently.
